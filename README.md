@@ -17,6 +17,10 @@ spark-submit --class sparkHiveYarn.HiveSparkYarn.App --executor-memory 1g HiveSp
 
 
 1st argument (arg1) is the metastore uri
+
 2nd argument  (arg2) is the name of the table
+
 3rd argument  (arg3) is the path for the file which has data that has to be loaded
+
 4th argument  (arg4) is the path for the output directory
+
